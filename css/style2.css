@@ -1,0 +1,18 @@
+header{
+    text-align: center;
+}
+.contenedor div{
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+}
+img{
+    /* transform: rotate(180deg); */
+    width: 80%;
+}
+body{
+    background-color: cadetblue;
+}
+.ganaste{
+    font-size: 2rem;
+}

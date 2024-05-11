@@ -1,0 +1,21 @@
+img{
+    width: 300px;
+}
+/* .figura{
+   
+} */
+/* .container{
+    display: grid;
+    grid-template-rows: 100%;
+    grid-template-columns: 33% 33% 33%;
+} */
+form{
+    font-size: 1em;
+}
+input, button{
+    display: block;
+    margin-bottom: 1em;
+}
+p{
+    display: inline;
+}

@@ -1,0 +1,76 @@
+body{
+    padding-top: 100px;
+    text-align: center;
+    background-color: aquamarine;
+}
+button{
+    /* position: relative; */
+    width: 15%;
+    height: 30vh;
+    padding: 0;
+    margin: 0;
+    background-color: rgba(255, 255, 255, 0.1);
+    font-size: 100px;
+    /* font-weight: 900;  */
+    color: orchid;
+    padding-right: 10%;
+    /* padding-bottom: 20%; */
+}
+.contenedor{
+    height: auto;
+}
+/* button:hover{
+    opacity: 0.5;
+} */
+
+/* p{
+    position: relative;
+    bottom: 15%;
+} */
+.a{
+    background-image: url('https://cdn.icon-icons.com/icons2/4204/PNG/512/percussion_instrument_musical_music_drums_drum_set_icon_262842.png');
+    /* background-position: center; */
+    background-size: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.b{
+    background-image: url('https://cdn.icon-icons.com/icons2/4204/PNG/512/instrument_string_bass_guitar_electric_rock_music_icon_262845.png');
+    /* background-position: center; */
+    background-size: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.c{
+    background-image: url('https://cdn.icon-icons.com/icons2/4204/PNG/512/string_music_musical_instrument_orchestra_cello_icon_262846.png');
+    /* background-position: center; */
+    background-size: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.d{
+    background-image: url('https://cdn.icon-icons.com/icons2/4204/PNG/512/musical_music_orchestra_instrument_flute_icon_262878.png');
+    /* background-position: center; */
+    background-size: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* img{
+    width: 80%;
+    margin-bottom: 0;
+    padding: 0;
+} */
+/* {
+    position: relative;
+} */
+/* p{
+    display: inline;
+    margin: 0;
+} */
+/* p{
+    position: relative;
+    /* bottom: 370px; 
+    font-size: 80px;
+    left: 35rem; 
+} */
