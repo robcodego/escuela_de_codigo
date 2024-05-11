@@ -80,6 +80,7 @@ let celular ={
     color : 'azul',
     camara : false
 }
+console.log(typeof celular, "Celular de tipo");
 console.log(celular.camara);
 console.log(celular['camara']);
 

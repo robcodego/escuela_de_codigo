@@ -11,8 +11,7 @@ function obtenerArea2(base, altura){
 } */
 
 document.querySelector('.calcular').addEventListener(
-        'click', function (evento){
-            console.log(evento)
+        'click', function (){
             let tipo = document.querySelector('.tipo').textContent;
             switch (tipo){
                 case 'Triangulo':
